@@ -23,8 +23,8 @@ Graph:
  [45 37  6 28 38  5 45 49  0 16]
  [17 14 15 49 46 44 13 25 29  0]]
 
-best path: [ 1.  7. 10.  2.  3.  5.  6.  8.  9.  4.  1.]
-cost of the best path 177
+best path: [ 1.  7.  4.  9.  6.  3.  8.  2.  5. 10.  1.]
+cost of the best path 116
 
 test_files/test_graph_2.txt
 Graph:
@@ -46,8 +46,8 @@ Graph:
  [24 15 44  8 13 27  0 16]
  [41  7 26 22 38 31 11  0]]
 
-best path: [1. 7. 4. 8. 2. 6. 3. 5. 1.]
-cost of the best path 168
+best path: [1. 2. 6. 4. 8. 7. 5. 3. 1.]
+cost of the best path 167
 
 test_files/test_graph_4.txt
 Graph:
@@ -70,8 +70,8 @@ Graph:
  [31 31 23  6  0  5]
  [ 5 18 26 50 10  0]]
 
-best path: [1. 4. 5. 6. 2. 3. 1.]
-cost of the best path 84
+best path: [1. 2. 4. 5. 6. 3. 1.]
+cost of the best path 96
 
 test_files/test_graph_6.txt
 Graph:
@@ -95,8 +95,8 @@ Graph:
  [13 30  8 44 36 35  0 48]
  [47 24 31 49 16 44 26  0]]
 
-best path: [1. 4. 6. 7. 3. 2. 5. 8. 1.]
-cost of the best path 159
+best path: [1. 4. 7. 3. 2. 6. 8. 5. 1.]
+cost of the best path 186
 
 test_files/test_graph_8.txt
 Graph:
@@ -111,8 +111,8 @@ Graph:
  [10 27 13 28 44 40  8 45  0 36]
  [31 44 34 25 50 39 40 21 46  0]]
 
-best path: [ 1.  3.  7.  5.  4.  9. 10.  6.  2.  8.  1.]
-cost of the best path 206
+best path: [ 1.  3. 10.  4.  6.  2.  8.  5.  9.  7.  1.]
+cost of the best path 161
 
 test_files/test_graph_9.txt
 Graph:
@@ -120,6 +120,6 @@ Graph:
  [23  0 37]
  [27  8  0]]
 
-best path: [1. 2. 3. 1.]
-cost of the best path 95
+best path: [1. 3. 2. 1.]
+cost of the best path 69
 
