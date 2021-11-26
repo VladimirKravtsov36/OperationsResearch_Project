@@ -78,7 +78,7 @@ def TSPRec(adj, curr_bound, curr_weight,
                                 firstMin(adj, i)) / 2)
 
             '''curr_bound + curr_weight это lower_bound для узла, в который мы прибыли.
-            Если текущая нижняя граница меньше final_res,
+            Если текущая граница меньше final_res,
              надо исследовать следующий узел'''
             if curr_bound + curr_weight < final_res:
                 curr_path[level] = i
